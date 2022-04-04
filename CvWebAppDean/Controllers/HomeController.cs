@@ -35,5 +35,10 @@ namespace CvWebAppDean.Controllers
         {
             return View();
         }
+
+        public ActionResult EducationalProjects()
+        {
+            return View();
+        }
     }
 }
